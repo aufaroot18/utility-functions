@@ -1,3 +1,3 @@
-function newFeature() {
-  console.log("New Feature");
+function newFeature(){
+  console.log("new feature");
 }
